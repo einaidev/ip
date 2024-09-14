@@ -1,0 +1,72 @@
+#EXTM3U
+
+############################################################################ Informações 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",12/07/2024
+http://.ddns.net/ANDRADE.mp4
+
+#EXTINF:-1 tvg-logo="https://img.odcdn.com.br/wp-content/uploads/2020/06/20200615083514.jpg" group-title="PIX/PARA CONTINUA ATUALIZANDO",PIX 88996985233
+http://.ddns.net/ANDRADE.mp4
+
+#EXTINF:-1 tvg-logo="https://dcdn.mitiendanube.com/stores/004/529/972/themes/common/logo-285950301-1718983156-76d3c26384470eb25f96413dc96faadb1718983157-320-0.webp" group-title="QUER UM TEST CHAMA",Whats 88996985233
+http://.ddns.net/ANDRADE.mp4
+
+#EXTINF:-1 tvg-id="0" tvg-logo="https://imgur.com/waZJG1M.png" group-title="TV ABERTA", GLOBO HD
+https://abc.embedmax.site/globoSP/index.fmp4.m3u8
+
+#EXTINF:0 type="stream" group-title="ABERTO" logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv.png", BAND HD
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/3.m3u8
+
+#EXTINF:0 type="stream" group-title="ABERTO" logo="https://i.imgur.com/RzxWGrz.png", SBT HD
+https://simulcast2.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SBT-Live-Channel/231ef4d2-11a0-4f96-8ab3-1182140e0f2b/4.m3u8
+
+#EXTINF:0 type="stream" group-title="ABERTO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV HD
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/13.m3u8
+
+#EXTINF:-1 tvg-id="RedeTV!" tvg-name="RedeTV!"  tvg-logo="https://imgur.com/2vYqKX5.png" group-title="Canais | ABERTO",RedeTV!HD
+https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="Cultura HD¹" tvg-logo="http://www.fontedoscanais.com/logos/canais/cultura.png" group-title="Canais | ABERTO",Cultura HD
+http://tv.iptvagora.com:25461/076432601/076432601/328293
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-Futura.png" group-title="Canais | ABERTO",CANAL FUTURA HD
+https://tv.unisc.br/hls/test.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z49TV0y.png" group-title="Canais | ABERTO",CANÇÃO NOVA HD
+https://cdn-3.nxplay.com.br/CANCAO_NOVA_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV A Crítica SD¹" tvg-logo="https://i.imgur.com/LXvCAY1.png" group-title="Canais | ABERTO",TV A Crítica SD¹
+http://tv.iptvagora.com:25461/076432601/076432601/328547
+
+#EXTINF:-1 tvg-id="" tvg-name="TV Brasil SD¹" tvg-logo="https://www.fontedoscanais.com/logos/canais/tvbrasil.png" group-title="Canais | ABERTO",TV Brasil SD¹
+http://tv.iptvagora.com:25461/076432601/076432601/328540
+
+#EXTINF:-1 tvg-logo="https://imgur.com/psyk2C5.png" group-title="Canais | ABERTO",RIT TV
+https://cdn-1.nxplay.com.br/RIT_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA HD²" tvg-logo="https://4.bp.blogspot.com/-UeUM4eRrgU4/XpYfzJnT-RI/AAAAAAAACxk/kGZI3LVfbMQgOvR1nlesG1ZkgbLDZ0XhACK4BGAYYCw/s400/TV%2BAPARECIDA.png" group-title="Canais | ABERTO",TV APARECIDA HD²
+http://tv.iptvagora.com:25461/076432601/076432601/1026
+
+#EXTINF:0 type="stream" group-title="ABERTO" logo="http://andradetv.unaux.com/Logo_2015_-_TV_Novo_Tempo.png", TV NOVO TEMPO
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+
+#EXTINF:0 type="stream" group-title="ABERTO" logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png", REDE VIDA HD
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/live-redevida/720p/chunks.m3u8
+
+#EXTINF:0 type="stream" group-title="NOTICIAS" logo="https://listaiptv.gratis/logos/imagens/recnews.png", Record News HD
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+
+#EXTINF:-1 tvg-id="0" tvg-logo="https://i.imgur.com/OOB7nrS.png" group-title="ABERTO", CANAL EDUCAÇÃO HD
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1 tvg-id="0" tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="AO VIVO", CAZE TV YT
+https://ythls.armelin.one/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8
+
+#EXTINF:-1 tvg-id="0" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="ABERTO", ALL SPORTS HD
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="0" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfLnzlrPYwuSYZ92d0ynM9AB7xZhzhGzsaw97dhb4nniKt8gEb" group-title="INFANTIS", CANAL DESENHOS 24HRS
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w2009448780.m3u8
+
+#EXTINF:-1 tvg-id="0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Jovem_Pan_News.png" group-title="NOTICIAS", JOVEM PAN NEWS HD
+https://amg01391-addigital-jovempan-distrotv-tvd2e.amagi.tv/playlist/amg01391-addigital-jovempan-distrotv/cb543d197c6c668984c83c66cef046a7f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7454db80148b61299bce8c37683f03409a5e5afba358b1ebb40941da3ea8b04a55962d46e19f43c8814aa6d2d45e9d5e8074f6459cc3f8de864382d5f3df986d935c83e5911ce3e25ba18b3b94c89b73309003502c7c66c7d35d7ad35efc2a7053edebc3ff44f216dc8026801a4fd3fb54e0e542fb41bf08bde447b2a2fbdb4d0117abd64f6465d08d3a3e545441df45ded88cfe767d8bf75e1f2dac3b8b727b68c2b5a3bce5b280bc8fc5dd4215bd41f6ff0849604da04ffafc6b9120d8cef7997264417110038a58b89b571648b77785c10928504145e2cf1b94c69169396c4b89974d943d2ff98adbcd8f557bfd69150cbc3b9943533885744d6cf521fcad396ea22f1eca606eac1666d602b49304c18af7a94637bcd5c202d86aecbe059bb621a17f335407fca37e090b1c3380a0364d0378c544f6da85b4245e4ebfa1bf8baa390f0e37135d1b98a2b620e9e9ee1d5d47911d761a377a71b10bd96ed30533700dc10cdca10c34c8461624e8a3304a492ef1ecb4928cc2c554bf1c829eab214edb389355b5d640c6273faf3ed2a36a0040fe742dbadea6/116/1280x720_3000797/index.m3u8
